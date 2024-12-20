@@ -1,0 +1,347 @@
+{
+    "SeasonalFoods": [
+      {
+        "ID": 11101,
+        "Name": "Carrot",
+        "Season": ["Winter", "Spring"],
+        "Description": "A sweet and crunchy root vegetable.",
+        "ImageURL": "https://spoonacular.com/images/carrot.jpg",
+        "StorageTips": "Store in a cool, dark place or in the fridge.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11250,
+        "Name": "Spinach",
+        "Season": ["Spring", "Fall"],
+        "Description": "A leafy green rich in vitamins and iron.",
+        "ImageURL": "https://spoonacular.com/images/spinach.jpg",
+        "StorageTips": "Store in the refrigerator and use within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 9221,
+        "Name": "Apple",
+        "Season": ["Fall", "Winter"],
+        "Description": "A sweet, crisp fruit enjoyed fresh or cooked.",
+        "ImageURL": "https://spoonacular.com/images/apple.jpg",
+        "StorageTips": "Keep in a cool, dry place or refrigerate for longer freshness.",
+        "IsFruit": true
+      },
+      {
+        "ID": 9132,
+        "Name": "Strawberry",
+        "Season": ["Spring", "Summer"],
+        "Description": "A juicy, red fruit that is sweet and slightly tart.",
+        "ImageURL": "https://spoonacular.com/images/strawberry.jpg",
+        "StorageTips": "Store in the refrigerator and consume within 3-4 days.",
+        "IsFruit": true
+      },
+      {
+        "ID": 11282,
+        "Name": "Onion",
+        "Season": ["Winter", "Fall"],
+        "Description": "A pungent bulb used as a base in many dishes.",
+        "ImageURL": "https://spoonacular.com/images/onion.jpg",
+        "StorageTips": "Store in a cool, dark, and dry place.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11477,
+        "Name": "Zucchini",
+        "Season": ["Summer"],
+        "Description": "A versatile summer squash often used in salads or cooked.",
+        "ImageURL": "https://spoonacular.com/images/zucchini.jpg",
+        "StorageTips": "Store in the refrigerator and use within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11529,
+        "Name": "Tomato",
+        "Season": ["Summer", "Fall"],
+        "Description": "A juicy red fruit commonly used in cooking and salads.",
+        "ImageURL": "https://spoonacular.com/images/tomato.jpg",
+        "StorageTips": "Store at room temperature until ripe, then refrigerate.",
+        "IsFruit": true
+      },
+      {
+        "ID": 11422,
+        "Name": "Cucumber",
+        "Season": ["Summer"],
+        "Description": "A refreshing vegetable often used in salads and cold dishes.",
+        "ImageURL": "https://spoonacular.com/images/cucumber.jpg",
+        "StorageTips": "Store in the refrigerator for up to a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11564,
+        "Name": "Sweet Potato",
+        "Season": ["Fall", "Winter"],
+        "Description": "A sweet root vegetable enjoyed baked or mashed.",
+        "ImageURL": "https://spoonacular.com/images/sweetpotato.jpg",
+        "StorageTips": "Store in a cool, dark place.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11052,
+        "Name": "Cauliflower",
+        "Season": ["Fall", "Winter"],
+        "Description": "A cruciferous vegetable used in a variety of dishes.",
+        "ImageURL": "https://spoonacular.com/images/cauliflower.jpg",
+        "StorageTips": "Store in the refrigerator and use within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11080,
+        "Name": "Broccoli",
+        "Season": ["Fall", "Winter"],
+        "Description": "A green vegetable high in vitamins and fiber.",
+        "ImageURL": "https://spoonacular.com/images/broccoli.jpg",
+        "StorageTips": "Store in the refrigerator for up to a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11215,
+        "Name": "Garlic",
+        "Season": ["Fall", "Winter"],
+        "Description": "A flavorful bulb used in cooking worldwide.",
+        "ImageURL": "https://spoonacular.com/images/garlic.jpg",
+        "StorageTips": "Store in a cool, dry place.",
+        "IsFruit": false
+      },
+      {
+        "ID": 9037,
+        "Name": "Banana",
+        "Season": ["Year-round"],
+        "Description": "A soft, sweet fruit enjoyed raw or in desserts.",
+        "ImageURL": "https://spoonacular.com/images/banana.jpg",
+        "StorageTips": "Store at room temperature or refrigerate to slow ripening.",
+        "IsFruit": true
+      },
+      {
+        "ID": 11292,
+        "Name": "Green Onion",
+        "Season": ["Spring", "Summer"],
+        "Description": "A mild onion used as a garnish or in cooking.",
+        "ImageURL": "https://spoonacular.com/images/greenonion.jpg",
+        "StorageTips": "Store in the refrigerator and use within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11252,
+        "Name": "Lettuce",
+        "Season": ["Spring", "Summer"],
+        "Description": "A leafy vegetable used in salads and sandwiches.",
+        "ImageURL": "https://spoonacular.com/images/lettuce.jpg",
+        "StorageTips": "Store in the refrigerator and consume within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 9150,
+        "Name": "Lemon",
+        "Season": ["Winter", "Spring"],
+        "Description": "A tangy citrus fruit used in drinks and cooking.",
+        "ImageURL": "https://spoonacular.com/images/lemon.jpg",
+        "StorageTips": "Store in the refrigerator for longer freshness.",
+        "IsFruit": true
+      },
+      {
+        "ID": 11096,
+        "Name": "Asparagus",
+        "Season": ["Spring"],
+        "Description": "A tender green vegetable often grilled or steamed.",
+        "ImageURL": "https://spoonacular.com/images/asparagus.jpg",
+        "StorageTips": "Store in the refrigerator and use within 3-4 days.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11959,
+        "Name": "Bell Pepper",
+        "Season": ["Summer", "Fall"],
+        "Description": "A colorful vegetable used in a variety of dishes.",
+        "ImageURL": "https://spoonacular.com/images/bellpepper.jpg",
+        "StorageTips": "Store in the refrigerator and consume within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11695,
+        "Name": "Pumpkin",
+        "Season": ["Fall"],
+        "Description": "A large orange fruit used in soups and desserts.",
+        "ImageURL": "https://spoonacular.com/images/pumpkin.jpg",
+        "StorageTips": "Store in a cool, dry place.",
+        "IsFruit": true
+      },
+      {
+        "ID": 9139,
+        "Name": "Peach",
+        "Season": ["Summer"],
+        "Description": "A sweet and juicy stone fruit.",
+        "ImageURL": "https://spoonacular.com/images/peach.jpg",
+        "StorageTips": "Store at room temperature until ripe, then refrigerate.",
+        "IsFruit": true
+      },
+      {
+        "ID": 9326,
+        "Name": "Pineapple",
+        "Season": ["Spring", "Summer"],
+        "Description": "A tropical fruit with sweet and tangy flesh.",
+        "ImageURL": "https://spoonacular.com/images/pineapple.jpg",
+        "StorageTips": "Store at room temperature until ripe, then refrigerate.",
+        "IsFruit": true
+      },
+      {
+        "ID": 11603,
+        "Name": "Parsnip",
+        "Season": ["Winter"],
+        "Description": "A root vegetable with a sweet, nutty flavor.",
+        "ImageURL": "https://spoonacular.com/images/parsnip.jpg",
+        "StorageTips": "Store in a cool, dark place or refrigerate.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11168,
+        "Name": "Corn",
+        "Season": ["Summer"],
+        "Description": "A sweet and juicy vegetable eaten on the cob or used in dishes.",
+        "ImageURL": "https://spoonacular.com/images/corn.jpg",
+        "StorageTips": "Store in the refrigerator and consume within a few days.",
+        "IsFruit": false
+      },
+      {
+        "ID": 9030,
+        "Name": "Avocado",
+        "Season": ["Spring", "Summer"],
+        "Description": "A creamy fruit often used in guacamole and salads.",
+        "ImageURL": "https://spoonacular.com/images/avocado.jpg",
+        "StorageTips": "Store at room temperature until ripe, then refrigerate.",
+        "IsFruit": true
+      },
+      {
+        "ID": 11507,
+        "Name": "Potato",
+        "Season": ["Fall", "Winter"],
+        "Description": "A versatile root vegetable used in countless dishes.",
+        "ImageURL": "https://spoonacular.com/images/potato.jpg",
+        "StorageTips": "Store in a cool, dark place.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11663,
+        "Name": "Chili Pepper",
+        "Season": ["Summer", "Fall"],
+        "Description": "A spicy pepper used to add heat to dishes.",
+        "ImageURL": "https://spoonacular.com/images/chilipepper.jpg",
+        "StorageTips": "Store in the refrigerator for up to a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 9291,
+        "Name": "Blueberry",
+        "Season": ["Summer"],
+        "Description": "A small, sweet, and nutritious berry often used in desserts.",
+        "ImageURL": "https://spoonacular.com/images/blueberry.jpg",
+        "StorageTips": "Store in the refrigerator and consume within a week.",
+        "IsFruit": true
+      },
+      {
+        "ID": 9302,
+        "Name": "Grapes",
+        "Season": ["Fall"],
+        "Description": "A juicy fruit enjoyed fresh or used in wine production.",
+        "ImageURL": "https://spoonacular.com/images/grapes.jpg",
+        "StorageTips": "Store in the refrigerator and use within a week.",
+        "IsFruit": true
+      },
+      {
+        "ID": 11097,
+        "Name": "Brussels Sprouts",
+        "Season": ["Winter"],
+        "Description": "A mini cabbage-like vegetable high in nutrients.",
+        "ImageURL": "https://spoonacular.com/images/brussels_sprouts.jpg",
+        "StorageTips": "Store in the refrigerator and consume within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11333,
+        "Name": "Green Beans",
+        "Season": ["Summer", "Fall"],
+        "Description": "A versatile vegetable often steamed or sauteed.",
+        "ImageURL": "https://spoonacular.com/images/greenbeans.jpg",
+        "StorageTips": "Store in the refrigerator and use within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11119,
+        "Name": "Celery",
+        "Season": ["Spring", "Fall"],
+        "Description": "A crunchy vegetable often used in soups or salads.",
+        "ImageURL": "https://spoonacular.com/images/celery.jpg",
+        "StorageTips": "Store in the refrigerator and use within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11143,
+        "Name": "Cabbage",
+        "Season": ["Fall", "Winter"],
+        "Description": "A leafy green or purple vegetable used in many dishes.",
+        "ImageURL": "https://spoonacular.com/images/cabbage.jpg",
+        "StorageTips": "Store in the refrigerator for up to two weeks.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11161,
+        "Name": "Turnip",
+        "Season": ["Winter"],
+        "Description": "A root vegetable with a slightly sweet flavor.",
+        "ImageURL": "https://spoonacular.com/images/turnip.jpg",
+        "StorageTips": "Store in a cool, dark place or refrigerate.",
+        "IsFruit": false
+      },
+      {
+        "ID": 9306,
+        "Name": "Kiwi",
+        "Season": ["Winter", "Spring"],
+        "Description": "A small, tangy fruit with a bright green interior.",
+        "ImageURL": "https://spoonacular.com/images/kiwi.jpg",
+        "StorageTips": "Store in the refrigerator and consume within a week.",
+        "IsFruit": true
+      },
+      {
+        "ID": 11530,
+        "Name": "Eggplant",
+        "Season": ["Summer", "Fall"],
+        "Description": "A purple vegetable often used in Mediterranean dishes.",
+        "ImageURL": "https://spoonacular.com/images/eggplant.jpg",
+        "StorageTips": "Store in the refrigerator and consume within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 11190,
+        "Name": "Radish",
+        "Season": ["Spring", "Fall"],
+        "Description": "A crunchy root vegetable with a peppery taste.",
+        "ImageURL": "https://spoonacular.com/images/radish.jpg",
+        "StorageTips": "Store in the refrigerator and consume within a week.",
+        "IsFruit": false
+      },
+      {
+        "ID": 9130,
+        "Name": "Plum",
+        "Season": ["Summer"],
+        "Description": "A juicy stone fruit with a tart-sweet flavor.",
+        "ImageURL": "https://spoonacular.com/images/plum.jpg",
+        "StorageTips": "Store at room temperature until ripe, then refrigerate.",
+        "IsFruit": true
+      },
+      {
+        "ID": 11238,
+        "Name": "Mushroom",
+        "Season": ["Fall", "Winter"],
+        "Description": "A versatile fungus used in a variety of dishes.",
+        "ImageURL": "https://spoonacular.com/images/mushroom.jpg",
+        "StorageTips": "Store in the refrigerator and use within a week.",
+        "IsFruit": false
+      }
+    ]
+  }
+  
